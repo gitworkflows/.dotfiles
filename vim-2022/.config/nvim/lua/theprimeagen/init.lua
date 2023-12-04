@@ -1,4 +1,4 @@
-print("from theprimeagen");
+print("from gitworkflows");
 
-require("theprimeagen.set");
+require("gitworkflows.set");
 
