@@ -1,12 +1,12 @@
 [submodule "netflix"]
 	path = netflix
-	url = git@github.com:GitWorkflows/.dotfiles-netflix.git
+	url = git@github.com:ThePrimeagen/.dotfiles-netflix.git
 [submodule "personal"]
 	path = personal
-	url = git@github.com:GitWorkflows/.dotfiles-personal.git
+	url = git@github.com:ThePrimeagen/.dotfiles-personal.git
 [submodule "tree-sitter/.config/tree-sitter/tree-sitter-lua"]
 	path = tree-sitter/.config/tree-sitter/tree-sitter-lua
 	url = git@github.com:Azganoth/tree-sitter-lua.git
 [submodule "nvim/.config/nvim"]
 	path = nvim/.config/nvim
-	url = git@github.com:GitWorkflows/init.lua.git
+	url = git@github.com:/init.lua.git
